@@ -7,6 +7,6 @@ class MyDisplay{
     }
 }
 
-// $foo = new MyDisplay();
-// $display->display();
-// $display->display();
+//$foo = new MyDisplay(); // Je crée une nouvelle instance $foo de la classe Mydisplay
+//$foo->display(); //affiche Hello World !
+//$foo->display(); //affiche Hello World !
